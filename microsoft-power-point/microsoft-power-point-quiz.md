@@ -3,7 +3,7 @@
 #### Q1. When you create a new, blank presentation. you begin with one blank slide. What is the layout name of this slide?
 
     Blank
-    = Title slide
+    =Title slide
     Title and Content
     Title Onty
 
@@ -130,6 +130,20 @@
 #### Q17. Which chart type is best suited for displaying annual financial data for a 10-year period? 
 
     line or area chart
+    
+#### Q18. If you want to create an organizational chart, which SmartArt category works best?
+
+    Pyramid
+    Relationship
+    =Hierarchy
+    Matrix
+    
+#### Q19. Which view lets you see additional information on a second monitor when delivering a presentation?
+
+    Normal view
+    Reading view
+    Slide Sorter view
+    =Presenter view
 
 
 -----------------------------
@@ -138,14 +152,8 @@ Answers needed
 
 
 -----------------------------
-#### Q18. If you want to create an organizational chart, which SmartArt category works best?
 
-    Pyramid
-    Relationship
-    Hierarchy
-    Matrix
-
-#### Q19. When printing multiple handouts, which option will group multipage documents together and make them easier to distribute?
+#### Q20. When printing multiple handouts, which option will group multipage documents together and make them easier to distribute?
 
     Print on Both Sides
     Uncollated
@@ -153,7 +161,7 @@ Answers needed
     Collated
 
 
-#### Q20. How can you adjust which data in a table is used when working on a chart?
+#### Q21. How can you adjust which data in a table is used when working on a chart?
 
     Click the Switch Row/Column button.
     Click the Refresh Data button.
@@ -165,4 +173,4 @@ Answers needed
     Normal view
     Reading view
     Slide Sorter view
-    Presenter view
+    =Presenter view
